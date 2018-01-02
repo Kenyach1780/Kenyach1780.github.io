@@ -1,0 +1,14 @@
+---
+layout: post
+title: My Biggest Challenges
+---
+
+Web Development. I did not think choosing this path would be easy by any means. Being completely wet behind the ears, if you will, on all things web development, I really didn’t know what to expect coming into this. I certainly expected to be challenged. I even welcomed it! I did not, however, expect to be wholly knocked on my booty by it. Vanilla JavaScript, in particular, has been the most puzzling for me so far. That is the frustrating part because JS is pretty much the backbone of everything I have come across up to this point. I have been slow to comprehend the complexities of this “alien” language and it has been very discouraging.  
+
+For loops and functions and conditionals, oh my!! Arrays and objects and strings and things!! JS has been a constant thorn in my side. I have a love-hate relationship with it. I’m sure that relationship will improve once I get a better, consistent understanding of it, but at this point, JS and I are not besties. There is simply so much to learn that it has been very difficult for me to pick up on the little things I need to remember. I am working extremely hard though. I am determined to not let JavaScript get the best of me even though it has come close in the past.  
+
+The jQuery library was slightly daunting as well. Considering I still didn’t have a great handle on JS when jQuery was introduced into the Bloc curriculum, adding it in seemed to only add another layer of complexity. All of those dollar signs and parentheses! What does it all mean??? Just kidding…sort of. I used jQuery to refactor some of the Vanilla JS in the Bloc Jams project I originally built within the curriculum. Refactoring my code has given me greater insight into how to make certain elements or functions simpler to write by using less code. By the end of that portion, I was understanding jQuery much better.
+
+Next, the AngularJS framework was introduced. Angular has, by far, been the easiest for me to understand which has been a nice reprieve from when I first began to delve into learning JS but it hasn’t been without issue. What has given me the most problems with Angular? I’d probably say controllers. The controllers themselves haven’t really been the issue. It’s what should go inside and be injected into them that has occasionally given me a few problems.
+
+Overall, my biggest challenges so far as I continue to go through the web developer track will ultimately be my biggest triumphs. I feel that deep in my heart. This is not a journey I intend to give up on. Although I may get discouraged and down on myself at times, I will find ways to pick myself back up and keep going. As I stated at the beginning, this is not something I thought would be all smooth sailing. I expected obstacles. Some of these obstacles have really taken me by surprise. But you remember what Forrest said…”Life is like a box of chocolates…”
